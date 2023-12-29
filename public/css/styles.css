@@ -1,0 +1,22 @@
+/* Add your CSS styling here */
+body {
+  font-family: Arial, sans-serif;
+}
+
+label, input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.success-message {
+  color: green;
+  /* Additional styling */
+}
+
+.error-message {
+  color: red;
+  /* Additional styling */
+}
